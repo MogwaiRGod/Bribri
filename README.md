@@ -1,4 +1,4 @@
-# Bribri
+# Conception d'une base de données d'un refuge
 
 ## Auteurs
 Diane [(MogwaiRGod)](https://github.com/MogwaiRGod) et Emeric [(Anarchiste34)](https://github.com/Anarchiste34)
