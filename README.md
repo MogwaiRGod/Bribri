@@ -8,7 +8,7 @@ Diane [(MogwaiRGod)](https://github.com/MogwaiRGod) et Emeric [(Anarchiste34)](h
 <br>
 
 # Description
-> Diagrammes MCD et MLD pour la conception d'une base de données d'un refuge pour animaux de tout
+> Diagrammes MCD et MLD pour la conception d'une base de données d'un refuge pour animaux sauvages et domestiques
 
 | Cliente |
 | :--: |
